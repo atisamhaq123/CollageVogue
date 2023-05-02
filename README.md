@@ -26,4 +26,6 @@ Our advanced technology ensures that your collages are both stunning and reliabl
 This project is licensed under the [MIT License](LICENSE).
 
 ## My Collage
-![Collage image](https://github.com/atisamhaq123/UnSplashApi_CollageCreator/blob/main/collage.PNG)
+<p align="center">
+  <img src="https://github.com/atisamhaq123/UnSplashApi_CollageCreator/blob/main/collage.PNG" alt="Collage image">
+</p>

@@ -6,7 +6,12 @@ The SplashAPI Collage Creator is a powerful command-line tool that allows you to
 
 ## Installation
 
-To get started, simply make an API request to retrieve a selection of high-quality images based on your criteria, specifying the desired search query in the request. Then, using our command-line interface, provide the input folder path where your selected images are saved, along with the desired number of rows and columns for your collage. Finally, run the `create_collage` function to automatically generate your beautiful collage with the specified output file name.
+To get started, simply make an API request to retrieve a selection of high-quality images based on your criteria: 
+1- Specifying the desired title name as query in the request. Then, using our command-line interface
+
+2- For 'create_collage' function, provide the input folder path where your selected images are saved, along with the desired number of rows and columns for your collage. 
+
+3- Finally, run the `create_collage` function to automatically generate your beautiful collage with the specified output file name.
 
 Our advanced technology ensures that your collages are both stunning and reliable, with crisp images and perfect alignment every time. Whether you're a professional photographer, social media influencer, or simply someone who appreciates beautiful visuals, the SplashAPI Collage Creator is the perfect tool to take your photo game to the next level.
 

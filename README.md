@@ -5,8 +5,8 @@
 The SplashAPI Collage Creator is a powerful command-line tool that allows you to create stunning collages using images sourced from the SplashAPI. With this tool, you can effortlessly retrieve high-quality images based on your desired search query and combine them into beautiful collages with just a few clicks.
 
 ## Installation
-
 To get started, simply make an API request to retrieve a selection of high-quality images based on your criteria: 
+
 1- Specifying the desired title name as query in the request. Then, using our command-line interface
 
 2- For 'create_collage' function, provide the input folder path where your selected images are saved, along with the desired number of rows and columns for your collage. 

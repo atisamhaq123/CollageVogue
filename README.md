@@ -15,6 +15,10 @@ To get started, simply make an API request to retrieve a selection of high-quali
 
 Our advanced technology ensures that your collages are both stunning and reliable, with crisp images and perfect alignment every time. Whether you're a professional photographer, social media influencer, or simply someone who appreciates beautiful visuals, the SplashAPI Collage Creator is the perfect tool to take your photo game to the next level.
 
+## Project Structure
+1. Code.ipynb
+2. ImagesFolder            --Collect SpashApiImages in it
+3. CollageFolder           --Collage Stores in it 
 
 ## License
 

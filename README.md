@@ -1,23 +1,24 @@
 
 
-# SplashAPI Collage Creator
+# UnSplashAPI Collage Creator
 
-The SplashAPI Collage Creator is a powerful command-line tool that allows you to create stunning collages using images sourced from the SplashAPI. With this tool, you can effortlessly retrieve high-quality images based on your desired search query and combine them into beautiful collages with just a few clicks.
+The UnSplashAPI Collage Creator is a powerful command-line tool that allows you to create stunning collages using images sourced from the UnSplashAPI. With this tool, you can effortlessly retrieve high-quality images based on your desired search query and combine them into beautiful collages with just a few clicks.
 
 ## Installation
 To get started, simply make an API request to retrieve a selection of high-quality images based on your criteria: 
+1. Get access key (ApiKey) from Spash
 
-1- Specifying the desired title name as query in the request. Then, using our command-line interface
+2- Specifying the desired title name as query in the request. Then, using our command-line interface
 
-2- For 'create_collage' function, provide the input folder path where your selected images are saved, along with the desired number of rows and columns for your collage. 
+3- For 'create_collage' function, provide the input folder path where your selected images are saved, along with the desired number of rows and columns for your collage. 
 
-3- Finally, run the `create_collage` function to automatically generate your beautiful collage with the specified output file name.
+4- Finally, run the `create_collage` function to automatically generate your beautiful collage with the specified output file name.
 
-Our advanced technology ensures that your collages are both stunning and reliable, with crisp images and perfect alignment every time. Whether you're a professional photographer, social media influencer, or simply someone who appreciates beautiful visuals, the SplashAPI Collage Creator is the perfect tool to take your photo game to the next level.
+Our advanced technology ensures that your collages are both stunning and reliable, with crisp images and perfect alignment every time. Whether you're a professional photographer, social media influencer, or simply someone who appreciates beautiful visuals, the UnSplashAPI Collage Creator is the perfect tool to take your photo game to the next level.
 
 ## Project Structure
 1. Code.ipynb
-2. ImagesFolder            --Collect SpashApiImages in it
+2. ImagesFolder            --Collect UnSpashApi Images in it
 3. CollageFolder           --Collage Stores in it 
 
 ## License

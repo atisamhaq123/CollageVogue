@@ -23,7 +23,7 @@ Our advanced technology ensures that your collages are both stunning and reliabl
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)..
 
 ## My Collage
 <p align="center">

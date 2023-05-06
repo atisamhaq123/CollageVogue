@@ -1,6 +1,6 @@
 
 
-# UnSplashAPI Collage Creator
+# UnSplashAPI Collage Creator.
 
 The UnSplashAPI Collage Creator is a powerful command-line tool that allows you to create stunning collages using images sourced from the UnSplashAPI. With this tool, you can effortlessly retrieve high-quality images based on your desired search query and combine them into beautiful collages with just a few clicks.
 

@@ -1,12 +1,12 @@
 
 
-# UnSplashAPI Collage Creator.
+# CollageVogue.
 
-The UnSplashAPI Collage Creator is a powerful command-line tool that allows you to create stunning collages using images sourced from the UnSplashAPI. With this tool, you can effortlessly retrieve high-quality images based on your desired search query and combine them into beautiful collages with just a few clicks.
+The CollageVogue is a powerful python based script that allows you to create stunning collages using images sourced from the UnSplashAPI. With this tool, you can effortlessly retrieve high-quality images based on your desired search query and combine them into beautiful collages with just a few clicks.
 
 ## Installation
 To get started, simply make an API request to retrieve a selection of high-quality images based on your criteria: 
-1. Get access key (ApiKey) from Spash
+1. Get access key (ApiKey) from Splash
 
 2- Specifying the desired title name as query in the request. Then, using our command-line interface
 

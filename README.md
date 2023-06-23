@@ -2,7 +2,7 @@
 
 # CollageVogue.
 
-The CollageVogue is a powerful python based script that allows you to create stunning collages using images sourced from the UnSplashAPI. With this tool, you can effortlessly retrieve high-quality images based on your desired search query and combine them into beautiful collages with just a few clicks...
+The CollageVogue is a powerful python based script that allows you to create stunning collages using images sourced from the UnSplashAPI. With this tool, you can effortlessly retrieve high-quality images based on your desired search query and combine them into beautiful collages with just a few clicks....
 
 ## Installation
 To get started, simply make an API request to retrieve a selection of high-quality images based on your criteria: 
